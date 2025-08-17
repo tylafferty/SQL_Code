@@ -1,5 +1,4 @@
 # Exploratory Data Analysis
-# Note we are not to worried about a specific goal, but rather exploring potential areas of interest within the data
 
 SELECT *
 FROM layoffs_staging2;
