@@ -1,0 +1,501 @@
+CustomerID,Initials,Country,City,CustomerType,SignupDate,Email
+CUST0001,XS,USA,Sydney,Reseller,2025-10-12,xs_cust0001@example.com
+CUST0002,LJ,USA,Toronto,Reseller,2024-07-31,lj_cust0002@example.com
+CUST0003,WJ,France,São Paulo,Reseller,2024-07-04,wj_cust0003@example.com
+CUST0004,MD,USA,Paris,Individual,2026-05-11,md_cust0004@example.com
+CUST0005,GI,Brazil,Toronto,Reseller,2026-03-16,gi_cust0005@example.com
+CUST0006,KN,India,São Paulo,Individual,2024-04-29,kn_cust0006@example.com
+CUST0007,CO,India,London,Reseller,2026-01-12,co_cust0007@example.com
+CUST0008,JV,Australia,Berlin,Individual,2026-03-02,jv_cust0008@example.com
+CUST0009,AT,Brazil,Sydney,Reseller,2024-08-27,at_cust0009@example.com
+CUST0010,TJ,India,Sydney,Business,2026-02-10,tj_cust0010@example.com
+CUST0011,HZ,Germany,Berlin,Individual,2024-04-15,hz_cust0011@example.com
+CUST0012,AH,USA,Mumbai,Business,2024-10-11,ah_cust0012@example.com
+CUST0013,RB,USA,New York,Business,2023-09-17,rb_cust0013@example.com
+CUST0014,LC,USA,New York,Reseller,2024-12-04,lc_cust0014@example.com
+CUST0015,EM,Canada,New York,Reseller,2026-03-06,em_cust0015@example.com
+CUST0016,XQ,UK,Sydney,Individual,2024-06-23,xq_cust0016@example.com
+CUST0017,GT,Canada,Mumbai,Business,2024-05-03,gt_cust0017@example.com
+CUST0018,YI,Germany,Sydney,Reseller,2026-04-05,yi_cust0018@example.com
+CUST0019,XC,UK,New York,Reseller,2025-06-14,xc_cust0019@example.com
+CUST0020,IT,USA,London,Business,2024-08-17,it_cust0020@example.com
+CUST0021,SO,Germany,Toronto,Reseller,2024-03-10,so_cust0021@example.com
+CUST0022,UD,UK,Sydney,Business,2025-08-15,ud_cust0022@example.com
+CUST0023,FX,France,São Paulo,Business,2025-09-29,fx_cust0023@example.com
+CUST0024,WA,USA,Mumbai,Reseller,2025-05-26,wa_cust0024@example.com
+CUST0025,BC,France,New York,Business,2024-06-28,bc_cust0025@example.com
+CUST0026,IN,India,Mumbai,Business,2025-12-23,in_cust0026@example.com
+CUST0027,LC,Canada,Toronto,Individual,2023-10-03,lc_cust0027@example.com
+CUST0028,SD,India,São Paulo,Reseller,2024-04-07,sd_cust0028@example.com
+CUST0029,PA,USA,Sydney,Reseller,2025-06-18,pa_cust0029@example.com
+CUST0030,UJ,Brazil,São Paulo,Individual,2023-09-05,uj_cust0030@example.com
+CUST0031,ES,France,São Paulo,Individual,2024-01-22,es_cust0031@example.com
+CUST0032,OD,Canada,Sydney,Individual,2024-06-11,od_cust0032@example.com
+CUST0033,DL,Brazil,London,Business,2026-02-09,dl_cust0033@example.com
+CUST0034,IR,France,São Paulo,Business,2024-11-17,ir_cust0034@example.com
+CUST0035,LT,India,Sydney,Individual,2024-03-30,lt_cust0035@example.com
+CUST0036,WI,UK,Berlin,Individual,2024-11-11,wi_cust0036@example.com
+CUST0037,VS,Canada,London,Business,2026-02-21,vs_cust0037@example.com
+CUST0038,FQ,India,London,Reseller,2025-02-11,fq_cust0038@example.com
+CUST0039,EV,France,São Paulo,Individual,2024-05-22,ev_cust0039@example.com
+CUST0040,NA,Canada,London,Business,2024-04-18,na_cust0040@example.com
+CUST0041,BF,USA,Berlin,Reseller,2026-03-15,bf_cust0041@example.com
+CUST0042,PD,France,Mumbai,Business,2025-03-04,pd_cust0042@example.com
+CUST0043,HA,India,Toronto,Reseller,2026-03-08,ha_cust0043@example.com
+CUST0044,BN,Germany,São Paulo,Business,2024-07-03,bn_cust0044@example.com
+CUST0045,GB,USA,New York,Business,2025-07-19,gb_cust0045@example.com
+CUST0046,WE,Australia,Sydney,Reseller,2024-03-25,we_cust0046@example.com
+CUST0047,UR,UK,New York,Reseller,2024-04-05,ur_cust0047@example.com
+CUST0048,MJ,Brazil,Berlin,Individual,2025-05-17,mj_cust0048@example.com
+CUST0049,RW,France,London,Individual,2026-01-10,rw_cust0049@example.com
+CUST0050,XE,Canada,Sydney,Business,2023-11-01,xe_cust0050@example.com
+CUST0051,LZ,France,Paris,Individual,2024-09-26,lz_cust0051@example.com
+CUST0052,ZT,Germany,Paris,Reseller,2025-02-05,zt_cust0052example.com
+CUST0053,ZL,Canada,Berlin,Business,2026-04-05,zl_cust0053@example.com
+CUST0054,OG,France,Berlin,Individual,2025-02-19,og_cust0054@example.com
+CUST0055,HL,USA,London,Individual,2024-01-20,hl_cust0055@example.com
+CUST0056,KZ,Australia,New York,Business,2025-11-26,kz_cust0056@example.com
+CUST0057,TI,Germany,New York,Individual,2025-11-02,ti_cust0057@example.com
+CUST0058,DQ,France,Toronto,Reseller,2026-01-10,dq_cust0058@example.com
+CUST0059,XM,Canada,Mumbai,Business,2024-06-13,xm_cust0059@example.com
+CUST0060,QD,UK,Paris,Individual,2025-01-16,qd_cust0060@example.com
+CUST0061,HQ,France,Toronto,Individual,2024-05-25,hq_cust0061@example.com
+CUST0062,BT,Brazil,São Paulo,Individual,2025-11-19,bt_cust0062@example.com
+CUST0063,IM,Brazil,New York,Individual,2026-01-19,im_cust0063@example.com
+CUST0064,NS,Germany,Paris,Individual,2024-02-26,ns_cust0064@example.com
+CUST0065,QF,Germany,São Paulo,Individual,2024-07-03,qf_cust0065@example.com
+CUST0066,FW,India,Sydney,Individual,2025-10-21,fw_cust0066@example.com
+CUST0067,OA,Australia,São Paulo,Individual,2023-09-09,oa_cust0067@example.com
+CUST0068,MV,Australia,Paris,Reseller,2025-09-29,mv_cust0068@example.com
+CUST0069,WT,India,São Paulo,Individual,2023-12-13,wt_cust0069@example.com
+CUST0070,AB,Australia,Berlin,Individual,2024-01-22,ab_cust0070@example.com
+CUST0071,HY,Germany,Mumbai,Reseller,2025-12-08,hy_cust0071@example.com
+CUST0072,SQ,France,Sydney,Business,2025-12-27,sq_cust0072@example.com
+CUST0073,JG,Canada,New York,Individual,2024-09-06,jg_cust0073@example.com
+CUST0074,TM,Brazil,London,Individual,2024-01-16,tm_cust0074@example.com
+CUST0075,MJ,France,Berlin,Individual,2025-01-11,mj_cust0075@example.com
+CUST0076,KF,USA,São Paulo,Reseller,2024-01-16,kf_cust0076@example.com
+CUST0077,NG,Canada,Sydney,Reseller,2025-03-06,ng_cust0077@example.com
+CUST0078,AJ,Brazil,Paris,Reseller,2024-05-21,aj_cust0078@example.com
+CUST0079,WG,Brazil,Paris,Business,2025-08-19,wg_cust0079@example.com
+CUST0080,QD,Brazil,Berlin,Reseller,2023-10-09,qd_cust0080@example.com
+CUST0081,QL,Canada,Sydney,Reseller,2025-12-12,ql_cust0081@example.com
+CUST0082,QN,UK,Paris,Reseller,2023-11-01,qn_cust0082@example.com
+CUST0083,HR,USA,London,Business,2024-07-06,hr_cust0083@example.com
+CUST0084,AE,USA,São Paulo,Reseller,2025-03-12,ae_cust0084@example.com
+CUST0085,BT,Canada,Paris,Individual,2025-09-04,bt_cust0085@example.com
+CUST0086,QO,Canada,Paris,Reseller,2025-12-11,qo_cust0086@example.com
+CUST0087,OC,Australia,São Paulo,Business,2024-02-08,oc_cust0087@example.com
+CUST0088,XY,Canada,New York,Reseller,2025-07-08,xy_cust0088@example.com
+CUST0089,XO,India,Paris,Individual,2023-11-06,xo_cust0089@example.com
+CUST0090,IP,Germany,Paris,Business,2025-04-14,ip_cust0090@example.com
+CUST0091,AG,Brazil,Sydney,Individual,2025-08-23,ag_cust0091@example.com
+CUST0092,WI,Australia,São Paulo,Business,2025-12-14,wi_cust0092@example.com
+CUST0093,KX,USA,Toronto,Reseller,2023-11-06,kx_cust0093@example.com
+CUST0094,KT,Brazil,Mumbai,Reseller,2024-04-06,kt_cust0094@example.com
+CUST0095,DD,Canada,London,Individual,2025-04-07,dd_cust0095@example.com
+CUST0096,EW,Australia,Sydney,Business,2023-11-14,ew_cust0096@example.com
+CUST0097,DV,USA,Paris,Individual,2024-08-11,dv_cust0097@example.com
+CUST0098,BY,Canada,London,Business,2024-11-01,by_cust0098@example.com
+CUST0099,NO,USA,São Paulo,Business,2026-02-17,no_cust0099@example.com
+CUST0100,YX,Canada,Sydney,Business,2023-09-08,yx_cust0100@example.com
+CUST0101,NZ,UK,London,Individual,2026-03-22,nz_cust0101example.com
+CUST0102,RU,France,Berlin,Reseller,2024-06-26,ru_cust0102example.com
+CUST0103,MK,Germany,Mumbai,Reseller,2025-01-17,mk_cust0103example.com
+CUST0104,II,Canada,São Paulo,Reseller,2025-09-25,ii_cust0104@example.com
+CUST0105,CE,USA,New York,Business,2024-05-07,ce_cust0105example.com
+CUST0106,NK,Brazil,São Paulo,Reseller,2024-07-10,nk_cust0106@example.com
+CUST0107,ML,Australia,London,Business,2024-04-27,ml_cust0107@example.com
+CUST0108,FU,Australia,Paris,Individual,2024-10-24,fu_cust0108@example.com
+CUST0109,HI,India,London,Individual,2025-12-24,hi_cust0109@example.com
+CUST0110,LP,UK,Mumbai,Individual,2026-04-09,lp_cust0110@example.com
+CUST0111,TW,USA,Berlin,Individual,2024-07-25,tw_cust0111@example.com
+CUST0112,BH,USA,London,Reseller,2026-04-14,bh_cust0112@example.com
+CUST0113,TZ,Canada,Paris,Reseller,2024-10-11,tz_cust0113@example.com
+CUST0114,YN,Germany,Mumbai,Business,2025-06-21,yn_cust0114@example.com
+CUST0115,JI,Australia,Mumbai,Business,2025-06-10,ji_cust0115@example.com
+CUST0116,AE,USA,Berlin,Individual,2026-03-15,ae_cust0116@example.com
+CUST0117,CY,France,São Paulo,Individual,2026-05-14,cy_cust0117@example.com
+CUST0118,GV,USA,New York,Business,2025-01-19,gv_cust0118@example.com
+CUST0119,HM,USA,Mumbai,Reseller,2026-01-13,hm_cust0119@example.com
+CUST0120,NI,Canada,Mumbai,Business,2023-09-19,ni_cust0120@example.com
+CUST0121,XG,Australia,Sydney,Individual,2024-08-31,xg_cust0121example.com
+CUST0122,OB,France,Toronto,Business,2023-10-27,ob_cust0122@example.com
+CUST0123,XC,India,Toronto,Business,2025-03-10,xc_cust0123@example.com
+CUST0124,EF,Germany,Berlin,Individual,2023-12-07,ef_cust0124@example.com
+CUST0125,FP,Brazil,Paris,Individual,2023-10-10,fp_cust0125@example.com
+CUST0126,ZK,India,New York,Individual,2024-06-08,zk_cust0126@example.com
+CUST0127,OQ,Canada,London,Reseller,2025-08-01,oq_cust0127@example.com
+CUST0128,GY,Canada,Paris,Individual,2024-12-11,gy_cust0128@example.com
+CUST0129,WO,Australia,Berlin,Reseller,2023-09-26,wo_cust0129@example.com
+CUST0130,LZ,Australia,Paris,Individual,2025-01-21,lz_cust0130@example.com
+CUST0131,HX,India,Mumbai,Reseller,2026-01-07,hx_cust0131@example.com
+CUST0132,KA,Australia,Toronto,Individual,2025-06-16,ka_cust0132@example.com
+CUST0133,YS,Australia,Berlin,Individual,2025-12-31,ys_cust0133@example.com
+CUST0134,GD,Australia,Berlin,Business,2024-09-02,gd_cust0134@example.com
+CUST0135,BE,India,Toronto,Reseller,2024-01-12,be_cust0135example.com
+CUST0136,YH,USA,Toronto,Business,2024-08-04,yh_cust0136example.com
+CUST0137,QX,France,Toronto,Reseller,2025-11-25,qx_cust0137@example.com
+CUST0138,DV,India,New York,Individual,2024-02-16,dv_cust0138@example.com
+CUST0139,NM,France,Berlin,Individual,2025-02-04,nm_cust0139@example.com
+CUST0140,BZ,India,Toronto,Business,2026-04-11,bz_cust0140@example.com
+CUST0141,IZ,Australia,Berlin,Individual,2026-04-16,iz_cust0141@example.com
+CUST0142,SK,Canada,Berlin,Business,2025-06-27,sk_cust0142@example.com
+CUST0143,GZ,Germany,Berlin,Reseller,2025-08-21,gz_cust0143example.com
+CUST0144,SF,Canada,Paris,Individual,2026-02-05,sf_cust0144@example.com
+CUST0145,MY,Canada,Sydney,Individual,2024-03-23,my_cust0145@example.com
+CUST0146,ZG,USA,Mumbai,Individual,2025-01-15,zg_cust0146@example.com
+CUST0147,GE,Brazil,Toronto,Individual,2025-03-13,ge_cust0147@example.com
+CUST0148,HH,Canada,Berlin,Business,2025-08-02,hh_cust0148@example.com
+CUST0149,HA,Australia,London,Reseller,2023-09-06,ha_cust0149@example.com
+CUST0150,CN,France,Berlin,Reseller,2024-01-29,cn_cust0150@example.com
+CUST0151,SM,France,Berlin,Reseller,2026-05-10,sm_cust0151@example.com
+CUST0152,YH,France,São Paulo,Business,2024-02-26,yh_cust0152@example.com
+CUST0153,IO,UK,Toronto,Reseller,2026-03-30,io_cust0153@example.com
+CUST0154,UF,Germany,Mumbai,Business,2026-04-10,uf_cust0154@example.com
+CUST0155,AC,Brazil,London,Individual,2024-01-08,ac_cust0155@example.com
+CUST0156,ZL,France,Paris,Individual,2024-02-14,zl_cust0156@example.com
+CUST0157,EG,India,Sydney,Reseller,2026-02-08,eg_cust0157@example.com
+CUST0158,ZN,USA,Sydney,Individual,2025-09-07,zn_cust0158@example.com
+CUST0159,YN,Germany,London,Business,2024-12-20,yn_cust0159@example.com
+CUST0160,TG,Germany,Mumbai,Reseller,2025-07-25,tg_cust0160@example.com
+CUST0161,HA,Australia,Paris,Individual,2025-09-10,ha_cust0161@example.com
+CUST0162,HD,UK,Mumbai,Reseller,2024-10-21,hd_cust0162@example.com
+CUST0163,IB,UK,Berlin,Business,2025-09-11,ib_cust0163@example.com
+CUST0164,LJ,Canada,New York,Individual,2026-05-18,lj_cust0164@example.com
+CUST0165,MB,Australia,Mumbai,Individual,2023-11-22,mb_cust0165@example.com
+CUST0166,OD,UK,Toronto,Business,2024-10-24,od_cust0166@example.com
+CUST0167,CJ,Brazil,London,Reseller,2024-09-29,cj_cust0167@example.com
+CUST0168,TW,USA,London,Business,2025-08-01,tw_cust0168@example.com
+CUST0169,EA,Brazil,Mumbai,Individual,2025-03-23,ea_cust0169@example.com
+CUST0170,NA,Australia,Toronto,Reseller,2024-12-14,na_cust0170@example.com
+CUST0171,QZ,USA,Berlin,Reseller,2025-04-21,qz_cust0171@example.com
+CUST0172,OV,Canada,Paris,Individual,2025-10-06,ov_cust0172@example.com
+CUST0173,JL,Brazil,Sydney,Reseller,2024-04-15,jl_cust0173@example.com
+CUST0174,VP,Canada,São Paulo,Reseller,2024-08-14,vp_cust0174@example.com
+CUST0175,UY,Germany,Toronto,Individual,2025-03-27,uy_cust0175@example.com
+CUST0176,MQ,Canada,São Paulo,Reseller,2024-01-01,mq_cust0176@example.com
+CUST0177,PF,Brazil,Mumbai,Individual,2025-06-07,pf_cust0177@example.com
+CUST0178,HC,Canada,London,Business,2024-07-11,hc_cust0178@example.com
+CUST0179,TJ,UK,Berlin,Business,2024-10-02,tj_cust0179@example.com
+CUST0180,DN,USA,Berlin,Individual,2024-02-20,dn_cust0180@example.com
+CUST0181,KS,Brazil,New York,Reseller,2025-07-25,ks_cust0181@example.com
+CUST0182,VB,India,São Paulo,Individual,2024-10-04,vb_cust0182@example.com
+CUST0183,HT,USA,Mumbai,Reseller,2025-04-10,ht_cust0183@example.com
+CUST0184,SW,UK,London,Business,2026-05-04,sw_cust0184@example.com
+CUST0185,GQ,India,New York,Individual,2024-09-11,gq_cust0185@example.com
+CUST0186,JC,Australia,Sydney,Business,2024-09-17,jc_cust0186@example.com
+CUST0187,DA,India,São Paulo,Business,2025-10-11,da_cust0187@example.com
+CUST0188,KS,Canada,Sydney,Individual,2025-04-28,ks_cust0188@example.com
+CUST0189,FV,USA,Sydney,Individual,2026-04-24,fv_cust0189@example.com
+CUST0190,FI,Canada,Sydney,Individual,2025-12-03,fi_cust0190@example.com
+CUST0191,VZ,Brazil,Paris,Reseller,2024-10-01,vz_cust0191@example.com
+CUST0192,XN,Australia,Paris,Reseller,2024-05-21,xn_cust0192example.com
+CUST0193,CP,Brazil,Toronto,Reseller,2025-09-19,cp_cust0193@example.com
+CUST0194,RV,USA,Sydney,Business,2025-01-10,rv_cust0194@example.com
+CUST0195,EY,France,Paris,Business,2024-03-16,ey_cust0195@example.com
+CUST0196,SI,Brazil,Sydney,Business,2025-10-18,si_cust0196@example.com
+CUST0197,XL,France,Sydney,Reseller,2024-02-19,xl_cust0197@example.com
+CUST0198,MI,France,New York,Business,2023-12-23,mi_cust0198@example.com
+CUST0199,AI,UK,New York,Reseller,2026-01-21,ai_cust0199@example.com
+CUST0200,WR,UK,London,Individual,2025-05-25,wr_cust0200@example.com
+CUST0201,BZ,Brazil,Mumbai,Business,2025-12-11,bz_cust0201@example.com
+CUST0202,GJ,UK,Sydney,Business,2025-02-25,gj_cust0202@example.com
+CUST0203,IN,India,Toronto,Individual,2026-02-16,in_cust0203@example.com
+CUST0204,ZB,Germany,Paris,Business,2023-10-04,zb_cust0204@example.com
+CUST0205,VI,Brazil,Sydney,Business,2026-02-06,vi_cust0205@example.com
+CUST0206,YT,Canada,Sydney,Business,2024-06-25,yt_cust0206@example.com
+CUST0207,PQ,Canada,Paris,Reseller,2026-01-12,pq_cust0207@example.com
+CUST0208,OZ,USA,Paris,Individual,2026-04-09,oz_cust0208@example.com
+CUST0209,QP,Australia,London,Individual,2023-10-02,qp_cust0209@example.com
+CUST0210,XG,Australia,Mumbai,Individual,2025-03-12,xg_cust0210@example.com
+CUST0211,WT,Brazil,Berlin,Individual,2024-11-10,wt_cust0211@example.com
+CUST0212,FD,India,Sydney,Reseller,2025-04-08,fd_cust0212@example.com
+CUST0213,LP,Germany,Berlin,Individual,2023-08-31,lp_cust0213@example.com
+CUST0214,PT,USA,São Paulo,Individual,2025-11-03,pt_cust0214@example.com
+CUST0215,UV,Australia,Paris,Reseller,2025-12-06,uv_cust0215@example.com
+CUST0216,TG,USA,Mumbai,Individual,2026-01-24,tg_cust0216@example.com
+CUST0217,OD,Germany,Mumbai,Individual,2024-10-19,od_cust0217@example.com
+CUST0218,TN,Canada,Paris,Individual,2024-09-11,tn_cust0218@example.com
+CUST0219,PX,Germany,Berlin,Reseller,2025-06-08,px_cust0219example.com
+CUST0220,NC,India,New York,Individual,2025-10-20,nc_cust0220@example.com
+CUST0221,NR,USA,London,Business,2024-03-28,nr_cust0221@example.com
+CUST0222,IT,Brazil,Sydney,Reseller,2024-02-07,it_cust0222@example.com
+CUST0223,EJ,India,Sydney,Reseller,2025-03-03,ej_cust0223@example.com
+CUST0224,JK,UK,Paris,Business,2023-11-09,jk_cust0224@example.com
+CUST0225,ED,Germany,Toronto,Business,2024-08-19,ed_cust0225@example.com
+CUST0226,RJ,Germany,Paris,Individual,2026-04-19,rj_cust0226@example.com
+CUST0227,PA,Germany,Berlin,Reseller,2023-10-26,pa_cust0227@example.com
+CUST0228,KT,USA,Mumbai,Individual,2024-01-30,kt_cust0228@example.com
+CUST0229,CM,USA,London,Business,2025-09-28,cm_cust0229@example.com
+CUST0230,VN,USA,Toronto,Business,2024-05-16,vn_cust0230@example.com
+CUST0231,UR,Australia,Sydney,Individual,2023-09-04,ur_cust0231@example.com
+CUST0232,QF,France,Toronto,Reseller,2026-03-30,qf_cust0232@example.com
+CUST0233,HI,Brazil,London,Reseller,2024-09-28,hi_cust0233@example.com
+CUST0234,AV,France,Paris,Reseller,2023-08-30,av_cust0234@example.com
+CUST0235,OD,Germany,Mumbai,Individual,2024-07-27,od_cust0235@example.com
+CUST0236,YJ,India,Mumbai,Business,2024-06-22,yj_cust0236@example.com
+CUST0237,SI,Canada,Paris,Individual,2026-02-01,si_cust0237@example.com
+CUST0238,LW,Canada,Toronto,Business,2025-04-09,lw_cust0238@example.com
+CUST0239,CS,France,Sydney,Reseller,2023-12-12,cs_cust0239@example.com
+CUST0240,RN,Germany,Toronto,Business,2023-11-20,rn_cust0240@example.com
+CUST0241,HO,Germany,Berlin,Individual,2024-12-31,ho_cust0241@example.com
+CUST0242,GA,India,Paris,Individual,2024-08-13,ga_cust0242@example.com
+CUST0243,OS,UK,Paris,Business,2024-08-05,os_cust0243@example.com
+CUST0244,VA,Australia,Mumbai,Individual,2025-01-12,va_cust0244@example.com
+CUST0245,PO,Australia,Toronto,Individual,2024-11-09,po_cust0245@example.com
+CUST0246,ZB,Australia,São Paulo,Reseller,2023-10-14,zb_cust0246@example.com
+CUST0247,BH,India,Berlin,Reseller,2025-07-17,bh_cust0247@example.com
+CUST0248,JN,Canada,New York,Individual,2025-09-22,jn_cust0248@example.com
+CUST0249,UB,UK,Berlin,Reseller,2025-06-21,ub_cust0249@example.com
+CUST0250,HP,Canada,London,Business,2026-02-09,hp_cust0250@example.com
+CUST0251,UP,Australia,Paris,Business,2025-01-01,up_cust0251@example.com
+CUST0252,GD,Germany,Berlin,Business,2025-05-05,gd_cust0252@example.com
+CUST0253,BV,Australia,Toronto,Reseller,2026-02-04,bv_cust0253@example.com
+CUST0254,FN,France,Mumbai,Reseller,2025-01-26,fn_cust0254@example.com
+CUST0255,RZ,USA,Berlin,Business,2025-12-05,rz_cust0255@example.com
+CUST0256,GR,Germany,New York,Business,2024-05-31,gr_cust0256@example.com
+CUST0257,RV,Canada,Berlin,Individual,2025-04-10,rv_cust0257@example.com
+CUST0258,LO,India,London,Business,2024-05-25,lo_cust0258@example.com
+CUST0259,JL,UK,Berlin,Individual,2023-10-20,jl_cust0259@example.com
+CUST0260,ET,Canada,São Paulo,Business,2024-02-27,et_cust0260@example.com
+CUST0261,CQ,Germany,Berlin,Reseller,2025-03-16,cq_cust0261@example.com
+CUST0262,KJ,France,Paris,Business,2026-03-29,kj_cust0262@example.com
+CUST0263,MP,USA,Sydney,Business,2024-05-13,mp_cust0263example.com
+CUST0264,SC,Germany,São Paulo,Business,2025-06-08,sc_cust0264@example.com
+CUST0265,QD,India,London,Reseller,2025-12-17,qd_cust0265@example.com
+CUST0266,PF,Australia,Paris,Individual,2025-04-11,pf_cust0266@example.com
+CUST0267,KD,India,Berlin,Business,2025-01-26,kd_cust0267@example.com
+CUST0268,UK,UK,Mumbai,Reseller,2025-01-03,uk_cust0268@example.com
+CUST0269,ZR,USA,Mumbai,Reseller,2024-04-13,zr_cust0269@example.com
+CUST0270,VU,Australia,Mumbai,Reseller,2025-10-24,vu_cust0270@example.com
+CUST0271,EF,India,Paris,Individual,2024-07-22,ef_cust0271@example.com
+CUST0272,NQ,France,Sydney,Reseller,2024-06-15,nq_cust0272@example.com
+CUST0273,EP,USA,São Paulo,Reseller,2024-12-05,ep_cust0273@example.com
+CUST0274,OT,Brazil,London,Individual,2024-06-10,ot_cust0274@example.com
+CUST0275,KM,UK,Toronto,Individual,2026-03-07,km_cust0275@example.com
+CUST0276,AW,USA,Mumbai,Individual,2024-03-08,aw_cust0276@example.com
+CUST0277,TJ,Germany,New York,Individual,2025-10-29,tj_cust0277@example.com
+CUST0278,AM,India,Paris,Reseller,2025-12-12,am_cust0278@example.com
+CUST0279,LA,France,London,Business,2023-10-06,la_cust0279@example.com
+CUST0280,ML,UK,Paris,Reseller,2025-04-18,ml_cust0280@example.com
+CUST0281,ET,Australia,Paris,Business,2026-05-06,et_cust0281@example.com
+CUST0282,WC,Australia,São Paulo,Reseller,2025-11-11,wc_cust0282@example.com
+CUST0283,MW,USA,Mumbai,Business,2023-09-11,mw_cust0283@example.com
+CUST0284,WJ,Germany,Mumbai,Individual,2025-03-16,wj_cust0284@example.com
+CUST0285,HM,France,Mumbai,Individual,2024-12-24,hm_cust0285@example.com
+CUST0286,PP,India,New York,Reseller,2025-12-28,pp_cust0286@example.com
+CUST0287,PE,UK,Paris,Individual,2025-04-13,pe_cust0287@example.com
+CUST0288,KU,USA,New York,Business,2025-06-09,ku_cust0288example.com
+CUST0289,VN,UK,Toronto,Individual,2025-05-02,vn_cust0289@example.com
+CUST0290,LK,Germany,Mumbai,Individual,2025-03-03,lk_cust0290@example.com
+CUST0291,NP,Australia,Paris,Reseller,2024-01-12,np_cust0291@example.com
+CUST0292,VV,Brazil,Berlin,Individual,2025-07-18,vv_cust0292@example.com
+CUST0293,FF,Australia,Sydney,Reseller,2024-11-27,ff_cust0293@example.com
+CUST0294,DT,UK,São Paulo,Business,2024-02-27,dt_cust0294@example.com
+CUST0295,CX,Australia,São Paulo,Individual,2024-01-27,cx_cust0295@example.com
+CUST0296,CQ,Germany,Berlin,Individual,2024-01-09,cq_cust0296@example.com
+CUST0297,OB,France,Berlin,Business,2026-02-15,ob_cust0297@example.com
+CUST0298,NV,India,Sydney,Business,2025-07-21,nv_cust0298@example.com
+CUST0299,ZO,UK,New York,Individual,2023-09-04,zo_cust0299@example.com
+CUST0300,DD,France,Sydney,Individual,2026-03-21,dd_cust0300@example.com
+CUST0301,GG,Canada,Sydney,Business,2026-04-03,gg_cust0301@example.com
+CUST0302,IX,Germany,Berlin,Business,2025-12-14,ix_cust0302@example.com
+CUST0303,ZZ,USA,Paris,Reseller,2025-03-01,zz_cust0303@example.com
+CUST0304,YV,UK,Mumbai,Business,2025-01-23,yv_cust0304@example.com
+CUST0305,HQ,USA,Berlin,Individual,2025-06-06,hq_cust0305@example.com
+CUST0306,NF,Germany,São Paulo,Business,2024-04-12,nf_cust0306@example.com
+CUST0307,NE,USA,London,Reseller,2024-12-23,ne_cust0307@example.com
+CUST0308,CN,UK,Mumbai,Reseller,2025-04-11,cn_cust0308@example.com
+CUST0309,SU,Germany,São Paulo,Reseller,2023-11-08,su_cust0309@example.com
+CUST0310,KX,Australia,Mumbai,Reseller,2024-10-01,kx_cust0310@example.com
+CUST0311,AQ,USA,London,Reseller,2024-09-20,aq_cust0311@example.com
+CUST0312,AH,France,New York,Business,2025-03-20,ah_cust0312@example.com
+CUST0313,FB,Australia,London,Reseller,2025-01-14,fb_cust0313@example.com
+CUST0314,ED,Canada,London,Reseller,2025-07-08,ed_cust0314@example.com
+CUST0315,FK,Canada,Mumbai,Business,2024-12-05,fk_cust0315@example.com
+CUST0316,XD,Brazil,Berlin,Reseller,2025-06-13,xd_cust0316@example.com
+CUST0317,CP,UK,Berlin,Individual,2024-06-25,cp_cust0317@example.com
+CUST0318,UA,Brazil,New York,Business,2024-03-14,ua_cust0318@example.com
+CUST0319,NC,Germany,São Paulo,Reseller,2023-12-29,nc_cust0319@example.com
+CUST0320,GO,UK,New York,Individual,2025-06-07,go_cust0320@example.com
+CUST0321,JX,Australia,Berlin,Business,2024-08-18,jx_cust0321@example.com
+CUST0322,TY,India,Paris,Reseller,2023-11-29,ty_cust0322@example.com
+CUST0323,CG,Australia,London,Reseller,2026-03-29,cg_cust0323@example.com
+CUST0324,ER,Canada,Paris,Individual,2026-05-06,er_cust0324@example.com
+CUST0325,VU,Canada,New York,Individual,2024-09-05,vu_cust0325@example.com
+CUST0326,HJ,Canada,Mumbai,Individual,2024-01-28,hj_cust0326@example.com
+CUST0327,UN,India,Mumbai,Business,2025-02-25,un_cust0327@example.com
+CUST0328,RF,Canada,Mumbai,Reseller,2024-05-29,rf_cust0328@example.com
+CUST0329,GO,USA,São Paulo,Individual,2024-10-15,go_cust0329example.com
+CUST0330,EY,Canada,São Paulo,Individual,2025-09-10,ey_cust0330@example.com
+CUST0331,WO,India,Paris,Business,2024-08-02,wo_cust0331@example.com
+CUST0332,PV,Germany,Paris,Reseller,2024-05-01,pv_cust0332@example.com
+CUST0333,ZO,Brazil,Berlin,Reseller,2026-05-05,zo_cust0333@example.com
+CUST0334,YA,Canada,New York,Business,2025-11-19,ya_cust0334example.com
+CUST0335,FG,Germany,Toronto,Business,2026-01-18,fg_cust0335@example.com
+CUST0336,RN,USA,Paris,Business,2024-02-04,rn_cust0336@example.com
+CUST0337,MA,India,London,Reseller,2024-05-30,ma_cust0337@example.com
+CUST0338,PV,Germany,Toronto,Business,2026-03-05,pv_cust0338@example.com
+CUST0339,WM,USA,Berlin,Individual,2024-01-26,wm_cust0339@example.com
+CUST0340,KU,India,London,Reseller,2025-11-17,ku_cust0340example.com
+CUST0341,JV,Canada,Toronto,Individual,2024-11-04,jv_cust0341@example.com
+CUST0342,JG,Australia,Mumbai,Individual,2024-05-19,jg_cust0342@example.com
+CUST0343,LV,Australia,São Paulo,Individual,2025-04-15,lv_cust0343@example.com
+CUST0344,XW,Canada,Toronto,Business,2023-08-28,xw_cust0344@example.com
+CUST0345,AP,Brazil,New York,Reseller,2025-03-01,ap_cust0345@example.com
+CUST0346,TL,UK,Mumbai,Business,2024-09-26,tl_cust0346@example.com
+CUST0347,VH,Brazil,Sydney,Individual,2024-07-14,vh_cust0347@example.com
+CUST0348,QJ,USA,Berlin,Reseller,2026-03-17,qj_cust0348@example.com
+CUST0349,FO,Germany,London,Individual,2026-01-03,fo_cust0349@example.com
+CUST0350,RV,Canada,Toronto,Business,2023-12-05,rv_cust0350@example.com
+CUST0351,QH,USA,New York,Reseller,2025-02-25,qh_cust0351@example.com
+CUST0352,XW,Australia,Berlin,Business,2024-10-17,xw_cust0352@example.com
+CUST0353,WQ,UK,Sydney,Business,2025-01-13,wq_cust0353@example.com
+CUST0354,QW,UK,São Paulo,Business,2023-09-30,qw_cust0354@example.com
+CUST0355,HU,Australia,London,Reseller,2024-08-07,hu_cust0355@example.com
+CUST0356,SX,Brazil,Toronto,Business,2026-01-04,sx_cust0356@example.com
+CUST0357,PO,Australia,New York,Reseller,2025-06-21,po_cust0357@example.com
+CUST0358,AT,France,London,Reseller,2026-04-27,at_cust0358@example.com
+CUST0359,XY,USA,New York,Individual,2024-11-26,xy_cust0359@example.com
+CUST0360,OT,UK,Mumbai,Reseller,2025-01-08,ot_cust0360@example.com
+CUST0361,MK,Brazil,New York,Business,2024-04-15,mk_cust0361@example.com
+CUST0362,PS,India,Mumbai,Business,2025-02-04,ps_cust0362@example.com
+CUST0363,AW,UK,Paris,Business,2025-09-17,aw_cust0363@example.com
+CUST0364,OY,UK,Toronto,Individual,2025-07-13,oy_cust0364@example.com
+CUST0365,MI,Canada,London,Reseller,2024-04-17,mi_cust0365@example.com
+CUST0366,RE,France,Mumbai,Reseller,2023-11-02,re_cust0366@example.com
+CUST0367,AE,UK,New York,Individual,2025-02-19,ae_cust0367@example.com
+CUST0368,QC,Germany,London,Reseller,2026-03-24,qc_cust0368@example.com
+CUST0369,BB,Canada,Paris,Individual,2026-04-23,bb_cust0369@example.com
+CUST0370,VX,Canada,Paris,Individual,2025-08-06,vx_cust0370@example.com
+CUST0371,RR,Brazil,Paris,Individual,2025-08-05,rr_cust0371@example.com
+CUST0372,ZE,France,Berlin,Reseller,2026-03-08,ze_cust0372@example.com
+CUST0373,IW,Australia,Toronto,Reseller,2026-01-30,iw_cust0373@example.com
+CUST0374,LH,Australia,Mumbai,Business,2023-10-24,lh_cust0374@example.com
+CUST0375,RR,France,Mumbai,Business,2024-07-27,rr_cust0375@example.com
+CUST0376,BR,France,New York,Individual,2026-03-16,br_cust0376@example.com
+CUST0377,KJ,UK,Mumbai,Reseller,2025-07-15,kj_cust0377@example.com
+CUST0378,GG,Australia,Mumbai,Business,2025-07-29,gg_cust0378@example.com
+CUST0379,CT,Germany,São Paulo,Individual,2023-08-28,ct_cust0379@example.com
+CUST0380,RA,India,Paris,Individual,2023-09-24,ra_cust0380example.com
+CUST0381,WS,UK,Toronto,Individual,2025-06-06,ws_cust0381example.com
+CUST0382,LM,UK,Paris,Reseller,2023-11-16,lm_cust0382@example.com
+CUST0383,HM,Australia,Paris,Business,2024-02-16,hm_cust0383@example.com
+CUST0384,US,India,Berlin,Reseller,2025-05-07,us_cust0384@example.com
+CUST0385,NH,Brazil,Berlin,Individual,2025-10-24,nh_cust0385@example.com
+CUST0386,JM,France,Berlin,Individual,2026-02-07,jm_cust0386example.com
+CUST0387,VW,India,New York,Reseller,2025-05-13,vw_cust0387@example.com
+CUST0388,SJ,India,Paris,Individual,2024-07-11,sj_cust0388@example.com
+CUST0389,XL,UK,Toronto,Business,2023-08-27,xl_cust0389@example.com
+CUST0390,KG,Germany,New York,Individual,2023-10-11,kg_cust0390@example.com
+CUST0391,CX,Canada,Mumbai,Individual,2025-12-09,cx_cust0391@example.com
+CUST0392,ZQ,USA,Mumbai,Reseller,2025-05-07,zq_cust0392@example.com
+CUST0393,AH,France,New York,Individual,2024-11-03,ah_cust0393example.com
+CUST0394,WR,India,São Paulo,Business,2025-08-08,wr_cust0394@example.com
+CUST0395,GC,USA,London,Individual,2025-04-03,gc_cust0395@example.com
+CUST0396,UL,France,São Paulo,Reseller,2025-03-11,ul_cust0396@example.com
+CUST0397,YJ,Canada,London,Business,2023-09-26,yj_cust0397@example.com
+CUST0398,OB,India,Paris,Individual,2023-10-13,ob_cust0398@example.com
+CUST0399,EU,USA,Berlin,Business,2024-03-09,eu_cust0399@example.com
+CUST0400,QM,Canada,New York,Business,2024-05-21,qm_cust0400@example.com
+CUST0401,HG,France,Paris,Business,2025-07-05,hg_cust0401example.com
+CUST0402,UR,Brazil,Paris,Business,2024-03-10,ur_cust0402@example.com
+CUST0403,GD,Germany,London,Reseller,2024-01-14,gd_cust0403@example.com
+CUST0404,AR,Australia,Mumbai,Business,2024-03-18,ar_cust0404@example.com
+CUST0405,SV,India,Paris,Business,2026-02-07,sv_cust0405@example.com
+CUST0406,KN,USA,Mumbai,Reseller,2024-08-24,kn_cust0406@example.com
+CUST0407,XP,India,Paris,Reseller,2024-09-17,xp_cust0407@example.com
+CUST0408,VG,Germany,Toronto,Reseller,2023-10-09,vg_cust0408@example.com
+CUST0409,VD,Brazil,Sydney,Reseller,2024-10-02,vd_cust0409@example.com
+CUST0410,QB,Australia,Paris,Individual,2026-03-29,qb_cust0410@example.com
+CUST0411,PB,Brazil,Paris,Business,2025-06-15,pb_cust0411@example.com
+CUST0412,CF,Brazil,Sydney,Reseller,2025-05-31,cf_cust0412@example.com
+CUST0413,UT,USA,Sydney,Individual,2025-06-24,ut_cust0413@example.com
+CUST0414,KD,Australia,Sydney,Business,2025-03-09,kd_cust0414@example.com
+CUST0415,NV,Canada,Sydney,Business,2024-09-01,nv_cust0415@example.com
+CUST0416,JL,Brazil,Berlin,Reseller,2025-03-16,jl_cust0416@example.com
+CUST0417,VY,UK,Toronto,Business,2024-04-28,vy_cust0417@example.com
+CUST0418,GV,UK,Paris,Reseller,2023-12-30,gv_cust0418@example.com
+CUST0419,XH,France,New York,Individual,2024-09-18,xh_cust0419@example.com
+CUST0420,HI,USA,Toronto,Individual,2026-03-07,hi_cust0420@example.com
+CUST0421,JV,Australia,Mumbai,Individual,2025-10-29,jv_cust0421@example.com
+CUST0422,VC,Brazil,São Paulo,Reseller,2024-12-29,vc_cust0422example.com
+CUST0423,HP,Germany,Mumbai,Reseller,2026-02-04,hp_cust0423@example.com
+CUST0424,DK,Canada,Sydney,Individual,2023-10-28,dk_cust0424@example.com
+CUST0425,XO,Australia,São Paulo,Business,2026-05-15,xo_cust0425@example.com
+CUST0426,RM,UK,Mumbai,Reseller,2024-12-21,rm_cust0426@example.com
+CUST0427,FS,USA,Paris,Individual,2025-10-02,fs_cust0427@example.com
+CUST0428,VL,France,London,Business,2025-12-21,vl_cust0428@example.com
+CUST0429,UI,India,Mumbai,Reseller,2025-04-26,ui_cust0429@example.com
+CUST0430,LR,France,London,Business,2024-07-15,lr_cust0430example.com
+CUST0431,ST,UK,Sydney,Business,2023-10-22,st_cust0431@example.com
+CUST0432,OJ,Brazil,Toronto,Business,2026-02-27,oj_cust0432@example.com
+CUST0433,SD,USA,São Paulo,Business,2025-12-07,sd_cust0433@example.com
+CUST0434,EF,France,New York,Reseller,2023-08-29,ef_cust0434@example.com
+CUST0435,GB,Canada,Mumbai,Business,2023-10-17,gb_cust0435@example.com
+CUST0436,SN,Australia,Paris,Reseller,2025-05-30,sn_cust0436@example.com
+CUST0437,ZF,Canada,São Paulo,Reseller,2024-03-26,zf_cust0437@example.com
+CUST0438,UC,UK,New York,Individual,2024-05-30,uc_cust0438@example.com
+CUST0439,QO,Australia,Toronto,Reseller,2025-12-30,qo_cust0439@example.com
+CUST0440,MS,India,Paris,Reseller,2026-02-05,ms_cust0440@example.com
+CUST0441,CJ,Canada,Toronto,Individual,2024-10-07,cj_cust0441@example.com
+CUST0442,IG,UK,São Paulo,Business,2024-03-21,ig_cust0442@example.com
+CUST0443,ZP,USA,São Paulo,Individual,2025-01-03,zp_cust0443@example.com
+CUST0444,JB,UK,Berlin,Individual,2025-02-28,jb_cust0444@example.com
+CUST0445,YZ,USA,Sydney,Business,2024-01-23,yz_cust0445@example.com
+CUST0446,XZ,USA,Berlin,Business,2026-02-21,xz_cust0446@example.com
+CUST0447,UR,Australia,Berlin,Reseller,2025-12-25,ur_cust0447@example.com
+CUST0448,NB,France,Sydney,Reseller,2024-07-18,nb_cust0448@example.com
+CUST0449,YL,Canada,São Paulo,Individual,2024-07-13,yl_cust0449@example.com
+CUST0450,LR,France,New York,Reseller,2025-04-09,lr_cust0450example.com
+CUST0451,UZ,Australia,Paris,Individual,2023-10-13,uz_cust0451@example.com
+CUST0452,ES,Canada,São Paulo,Reseller,2026-02-03,es_cust0452@example.com
+CUST0453,HK,Canada,Sydney,Individual,2025-09-18,hk_cust0453@example.com
+CUST0454,ET,Brazil,New York,Reseller,2025-09-15,et_cust0454@example.com
+CUST0455,ZW,USA,São Paulo,Reseller,2025-08-11,zw_cust0455@example.com
+CUST0456,UA,Germany,Mumbai,Reseller,2025-11-22,ua_cust0456@example.com
+CUST0457,WH,USA,Berlin,Individual,2023-10-08,wh_cust0457@example.com
+CUST0458,QZ,UK,São Paulo,Individual,2025-11-02,qz_cust0458@example.com
+CUST0459,GX,USA,Toronto,Individual,2023-11-10,gx_cust0459@example.com
+CUST0460,KA,Canada,New York,Individual,2023-10-02,ka_cust0460@example.com
+CUST0461,ZQ,India,Sydney,Reseller,2025-11-13,zq_cust0461@example.com
+CUST0462,ZR,USA,Paris,Business,2025-02-08,zr_cust0462@example.com
+CUST0463,VY,Canada,Berlin,Reseller,2024-09-01,vy_cust0463@example.com
+CUST0464,PZ,Brazil,Berlin,Business,2025-07-27,pz_cust0464@example.com
+CUST0465,AX,UK,London,Individual,2024-12-23,ax_cust0465@example.com
+CUST0466,YS,Canada,Paris,Individual,2024-05-03,ys_cust0466@example.com
+CUST0467,MV,USA,Berlin,Individual,2024-02-24,mv_cust0467@example.com
+CUST0468,WK,Canada,Berlin,Business,2025-02-02,wk_cust0468@example.com
+CUST0469,HI,Germany,New York,Individual,2026-03-03,hi_cust0469@example.com
+CUST0470,LW,India,London,Reseller,2025-11-11,lw_cust0470@example.com
+CUST0471,IF,USA,New York,Reseller,2023-12-08,if_cust0471@example.com
+CUST0472,WM,India,London,Business,2024-07-26,wm_cust0472@example.com
+CUST0473,PH,Brazil,Mumbai,Reseller,2024-03-06,ph_cust0473@example.com
+CUST0474,IN,Australia,Sydney,Reseller,2025-08-13,in_cust0474@example.com
+CUST0475,KP,UK,London,Reseller,2025-10-07,kp_cust0475@example.com
+CUST0476,BH,USA,Mumbai,Business,2024-05-18,bh_cust0476@example.com
+CUST0477,DL,Brazil,Berlin,Reseller,2024-02-04,dl_cust0477@example.com
+CUST0478,SK,India,London,Individual,2023-10-28,sk_cust0478@example.com
+CUST0479,EQ,UK,Paris,Individual,2025-07-17,eq_cust0479@example.com
+CUST0480,IT,Australia,New York,Business,2026-03-19,it_cust0480@example.com
+CUST0481,TE,India,São Paulo,Reseller,2025-04-26,te_cust0481@example.com
+CUST0482,MT,Germany,London,Reseller,2025-08-18,mt_cust0482@example.com
+CUST0483,TK,UK,London,Individual,2025-06-19,tk_cust0483@example.com
+CUST0484,ZA,UK,Mumbai,Reseller,2025-03-03,za_cust0484@example.com
+CUST0485,FA,France,São Paulo,Business,2025-10-20,fa_cust0485@example.com
+CUST0486,VF,Germany,New York,Reseller,2024-04-12,vf_cust0486@example.com
+CUST0487,MJ,France,New York,Reseller,2025-04-17,mj_cust0487@example.com
+CUST0488,US,France,Paris,Business,2025-02-10,us_cust0488@example.com
+CUST0489,VX,Brazil,Mumbai,Reseller,2024-02-11,vx_cust0489@example.com
+CUST0490,OM,UK,Sydney,Business,2024-07-10,om_cust0490@example.com
+CUST0491,JQ,USA,Berlin,Individual,2025-03-30,jq_cust0491@example.com
+CUST0492,UY,UK,Paris,Individual,2025-03-29,uy_cust0492@example.com
+CUST0493,NB,France,Berlin,Business,2025-06-26,nb_cust0493@example.com
+CUST0494,DM,Australia,London,Business,2025-12-10,dm_cust0494@example.com
+CUST0495,FF,Germany,New York,Individual,2025-10-20,ff_cust0495@example.com
+CUST0496,OJ,Brazil,Paris,Reseller,2025-11-19,oj_cust0496@example.com
+CUST0497,KY,Canada,Berlin,Individual,2024-02-18,ky_cust0497@example.com
+CUST0498,PR,France,Toronto,Individual,2024-12-12,pr_cust0498example.com
+CUST0499,OU,USA,Berlin,Business,2025-09-17,ou_cust0499@example.com
+CUST0500,YE,USA,Paris,Business,2025-09-06,ye_cust0500@example.com
